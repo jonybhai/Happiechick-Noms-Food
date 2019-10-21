@@ -79,7 +79,7 @@ nav ul{
 list-style: none;
 display: flex;
 margin: 0;
-padding: 0 10px;
+padding: 0 8px;
 justify-content: space-around;
 }
 nav a{
@@ -167,7 +167,7 @@ color: var(--clr-primary);
 background-color: var(--clr-accent);
 display: flex;
 flex-direction: column;
-color: white;
+color: #fff;
 padding: 0;
 }
 .about-us-intro{
