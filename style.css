@@ -6,7 +6,7 @@ font-weight: 700;
 src:url(href="https://fonts.googleapis.com/css?family=Baloo+Bhai&display=swap" rel="stylesheet");
 }
 ::selection{
-color: #fff;
+color: #ffffff;
 background: black;
 }
 a:focus { outline: 0 solid }
@@ -249,7 +249,7 @@ box-shadow: 0 0 1em rgba(0,0,0,0,1);
 	width: 70px;
 	position: absolute;
 	right:-8px;
-	bottom:-8px;
+	bottom:-9px;
 	background: var(--clr-primary);
 	z-index: -1;
 	
@@ -353,7 +353,7 @@ align-items: center;
 height: 100%;
 width: 100%;
 color: #fff;
-background-color: black;
+background-color: #000;
 opacity: .6;
 }
 .hover-on-order > *{
