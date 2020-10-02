@@ -67,7 +67,7 @@ font-size: 1.125em;
 }
 h2,h3{
 font-family: var(--ff-title);
-line-height:1;
+line-height:1.1;
 }
 p{
 font-family: var(--ff-serif);
